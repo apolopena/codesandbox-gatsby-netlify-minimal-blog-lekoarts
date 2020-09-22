@@ -76,6 +76,14 @@
             "url": "https://3xj5j-36693.sse.codesandbox.io"
           },
           "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 8000,
+            "url": "https://6re9p-8000.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },
