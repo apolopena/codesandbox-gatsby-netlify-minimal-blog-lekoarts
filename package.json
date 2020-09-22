@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "gatsby-netlify-minimal-blog-lekoarts",
-  "description": "",
+  "name": "team_devzen_practice_blog",
+  "description": "Practicing workflow and coding. Like a dev server for the blog.",
   "version": "1.2.6",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Team Devzen <some@email.com>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {

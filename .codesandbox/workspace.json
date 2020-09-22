@@ -20,6 +20,38 @@
             "url": "https://cmdj6-8000.sse.codesandbox.io"
           },
           "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 41281,
+            "url": "https://ikq4f-41281.sse.codesandbox.io"
+          },
+          "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 35017,
+            "url": "https://ikq4f-35017.sse.codesandbox.io"
+          },
+          "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 50400,
+            "url": "https://ikq4f-50400.sse.codesandbox.io"
+          },
+          "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 38183,
+            "url": "https://ikq4f-38183.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },
