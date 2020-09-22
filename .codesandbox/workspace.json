@@ -52,6 +52,30 @@
             "url": "https://ikq4f-38183.sse.codesandbox.io"
           },
           "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 36521,
+            "url": "https://3xj5j-36521.sse.codesandbox.io"
+          },
+          "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 45817,
+            "url": "https://3xj5j-45817.sse.codesandbox.io"
+          },
+          "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 36693,
+            "url": "https://3xj5j-36693.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },

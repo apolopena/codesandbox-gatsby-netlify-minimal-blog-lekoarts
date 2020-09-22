@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "team_devzen_practice_blog",
+  "name": "team-devzen-practice-blog",
   "description": "Practicing workflow and coding. Like a dev server for the blog.",
   "version": "1.2.6",
   "author": "Team Devzen <some@email.com>",
